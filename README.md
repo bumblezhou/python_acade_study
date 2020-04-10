@@ -7,3 +7,7 @@
 
 # 2. Online resize transparent png tool
 ## https://onlinepngtools.com/resize-png
+
+# 3. Others
+##  https://arcade.academy/sample_games.html
+##  https://randomprojectlab.blogspot.com/2017/11/pyweek-24-hackerbot.html
